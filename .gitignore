@@ -38,6 +38,3 @@ entity_match/
 .Trashes
 ehthumbs.db
 Thumbs.db
-
-# Project specific
-results/*.csv 

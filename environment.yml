@@ -1,0 +1,12 @@
+name: entity_match
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8
+  - pandas>=1.0.0
+  - numpy>=1.18.0
+  - matplotlib
+  - ipython
+  - jupyter
+  - pip 
