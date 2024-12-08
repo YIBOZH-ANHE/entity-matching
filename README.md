@@ -1,4 +1,8 @@
-# Entity Matching Project
+# 实验报告-Entity Matching Project
+
+张一博 202200300053 软工二班
+
+github链接：https://github.com/YIBOZH-ANHE/entity-matching.git
 
 这是一个实体匹配项目，主要目标是识别和匹配来自Amazon和Google两个数据源的相同商品。
 
@@ -35,7 +39,7 @@ entity_matching/
 ├── code.ipynb
 ├── environment.yml
 └── README.md
-```     
+```
 
 ## 实现方法
 
@@ -84,9 +88,13 @@ entity_matching/
 
 ## 结果分析
 
-- 最佳阈值：0.84
-- 最高精确率：约0.64
-- 在高阈值区间（>0.84）性能下降明显
+最佳阈值：0.84
+
+最高精确率：约0.64
+
+
+
+- ![output](/Users/zhangyibo/Papermoremore/entity_matching/output.png)
 
 ## 改进方向
 
